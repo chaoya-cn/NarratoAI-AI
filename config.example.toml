@@ -36,7 +36,7 @@
 
     ########## OpenAI API Key
     # Get your API key at https://platform.openai.com/api-keys
-    openai_api_key = ""
+    openai_api_key = "AIzaSyC2LcuGZYG5BuPIFjcAYBNq9un1QjI8Sb0"
     # No need to set it unless you want to use your own proxy
     openai_base_url = ""
     # Check your available models at https://platform.openai.com/account/limits
